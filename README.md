@@ -1,10 +1,14 @@
 # second-centernet
 development
 ```
+second-center
 Car  AP@0.70, 0.70, 0.70:
-bbox AP:95.55, 89.50, 87.65
 bev  AP:87.71, 82.86, 81.26
 3d   AP:79.81, 71.51, 70.02
+
+second-anchor
+bev  AP:95.87, 89.63, 86.98
+3d   AP:92.24, 83.11, 80.22
 ```
 ## TODO List
 * 细节
