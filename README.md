@@ -37,7 +37,7 @@ bev  AP:95.87, 89.63, 86.98
   - [x] 高度值的预测是否需要encode和decode的操作？
   - [x] centernet使用像素尺寸计算输出特征图上对应的高斯半径？目前的网络是用的特征图的目标尺寸计算的高斯半径
   - [x] 目前除了heat_map_head之外，没有经过decode和encode．
-  - [ ] centernet中对于size的回归写了三种loss，目前采用的是跟offset一样的L1 loss．
+  - [x] centernet中对于size的回归写了三种loss，目前采用的是跟offset一样的L1 loss．
   - [x] centernet训练和测试的时候使用的是不同的sigmoid？
 * 问题
   - [x] kitti.py中生成bbox和heat map的gt的流程是一样的，但是生成的tensor变量分别是list类型和tensor类型
