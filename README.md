@@ -1,6 +1,11 @@
 # second-centernet
 development
 ```
+second-center-v5
+Car  AP@0.70, 0.70, 0.70:
+bev  AP:96.28, 89.26, 88.03
+3d   AP:92.62, 82.45, 79.03
+
 second-center-v4
 Car  AP@0.70, 0.70, 0.70:
 bev  AP:96.09, 89.39, 86.67
